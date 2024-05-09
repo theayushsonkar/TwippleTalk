@@ -16,7 +16,7 @@ TwippleTalk is a text-centric social media platform designed to enable users to 
 
 ![username](images/username.png)
 
-## Onboarding Page
+### Onboarding Page
 
 ![onboarding](images/onboarding.PNG)
 
